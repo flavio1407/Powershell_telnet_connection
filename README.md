@@ -22,6 +22,9 @@ A dialog box appears to confirm installation. The telnet command should now be a
 
 2 - Copy file to computer telnet_lista_csv.ps1
 
+------------------
+
+
 3 - Copy file to computer lista_ip.csv
 a - Insert to the IPS listing in the list_ip.csv file
 remoteHost,port
