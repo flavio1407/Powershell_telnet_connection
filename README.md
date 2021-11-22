@@ -47,6 +47,7 @@ Press “Windows +X” to open the Start context menu and click “Windows Power
 ------------------
 
 6 - Run script ./telnet_lista_csv.ps1
+
 Results: lista_ip.csv
 
 "remoteHost","port","status"
