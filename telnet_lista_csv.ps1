@@ -1,4 +1,4 @@
-
+#########Flávio Azevedo
 #########Set ExecutionPolicy Unrestricted
 $lista_ip = import-csv lista_ip.csv
 $OutArray = @()
