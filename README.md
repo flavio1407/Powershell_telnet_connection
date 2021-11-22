@@ -23,8 +23,11 @@ A dialog box appears to confirm installation. The telnet command should now be a
 3 - Copy file to computer lista_ip.csv
 a - Insert to the IPS listing in the list_ip.csv file
 remoteHost,port
+
 182.129.201.1,80
+
 182.129.2.2,443
+
 182.129.0.1,135
 
 
@@ -37,8 +40,12 @@ Press “Windows +X” to open the Start context menu and click “Windows Power
 
 6 - Run script ./telnet_lista_csv.ps1
 Results: lista_ip.csv
+
 "remoteHost","port","status"
+
 "182.129.201.1","80","failed"
+
 "182.129.2.2","443","failed"
+
 "182.129.0.1","135","failed"
 
