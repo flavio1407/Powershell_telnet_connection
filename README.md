@@ -16,6 +16,7 @@ Click OK.
 A dialog box appears to confirm installation. The telnet command should now be available.
 
 
+------------------
 
 
 
@@ -32,18 +33,18 @@ remoteHost,port
 182.129.0.1,135
 
 
-
+------------------
 
 4 - Open PowerShell
 Press “Windows +X” to open the Start context menu and click “Windows PowerShell (Admin)”.
 
 
-
+------------------
 
 5 - set line comand: ExecutionPolicy Unrestricted
 
 
-
+------------------
 
 6 - Run script ./telnet_lista_csv.ps1
 Results: lista_ip.csv
@@ -56,3 +57,4 @@ Results: lista_ip.csv
 
 "182.129.0.1","135","failed"
 
+------------------
